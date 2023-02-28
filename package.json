@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "minio": "^7.0.32",
+    "node-stdlib-browser": "^1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite-plugin-ngmi-polyfill": "^0.0.2"
